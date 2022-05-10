@@ -1,4 +1,4 @@
-# Dependency Patcher
+# Dependency Patcher Java
 A cross platform tool created using Java 18 and IntelliJ Idea Community.
 
 ## The problem
